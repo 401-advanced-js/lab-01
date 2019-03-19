@@ -9,7 +9,7 @@ Spencer Hirata
 
 ### Links and Resources
 * [repo](https://github.com/401-advanced-js/lab-01)
-* [travis](http://xyz.com) NO CLUE HOW TO DO
+* [travis](https://travis-ci.com/401-advanced-js/lab-01/pull_requests) NO CLUE HOW TO DO I THINK I MADE THE RIGHT LINK THOUGH
 
 ### Modules
 #### `modulename.js`
