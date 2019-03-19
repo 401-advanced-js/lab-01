@@ -3,6 +3,9 @@
 const greet = require('../lib/greet.js');
 
 describe('Greet proper use should return "hello ${argument}"', () => {
+  it('Tests if the argument passed is valid and returns of type string', () => {
+    expect(greet('')).toBeTruthy();
+  });
   it('If valid string input "mary"', () => {
     expect(greet('mary')).toBe('hello mary');
   });

@@ -41,4 +41,23 @@ Divides two numbers and returns the quotient
 #### Tests
 * Running the tests on the arithmetic and greet modules with `npm run test` in the main folder
 
+  * Arithmetic
+    -Add
+    * Valid number => valid number return
+    * Everything other than a number => returns null
+    -Subtract
+    * Valid number => valid number return
+    * Everything other than a number => returns null
+    -Multiply
+    * Valid number => valid number return
+    * Everything other than a number => returns null
+    -Divide
+    * Valid number => valid number return
+    * Everything other than a number => returns null
+
+  * Greet
+    -Function
+    * Valid string => returns string with 'hello ' at the beginning
+    * Invalid input => returns null
+    
 #### UML
