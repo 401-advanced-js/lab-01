@@ -8,8 +8,8 @@ Lab-01: TDD
 Spencer Hirata
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/401-advanced-js/lab-01)
+* [travis](http://xyz.com) NO CLUE HOW TO DO
 
 ### Modules
 #### `modulename.js`
